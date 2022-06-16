@@ -9,20 +9,20 @@ const API_KEY = "d215b17398a2606edab5911f93361c47";
 
 
 export const WeatherIcons = {
-  "01d": "/icons/sunny.svg",
-  "01n": "/icons/night.svg",
-  "02d": "/icons/day.svg",
-  "02n": "/icons/cloudy-night.svg",
-  "03d": "/icons/cloudy.svg",
-  "03n": "/icons/cloudy.svg",
-  "04d": "/icons/perfect-day.svg",
-  "04n": "/icons/cloudy-night.svg",
-  "09d": "/icons/rain.svg",
-  "09n": "/icons/rain-night.svg",
-  "10d": "/icons/rain.svg",
-  "10n": "/icons/rain-night.svg",
-  "11d": "/icons/storm.svg",
-  "11n": "/icons/storm.svg",
+  "01d": "/icons/sunny.SVG",
+  "01n": "/icons/night.SVG",
+  "02d": "/icons/day.SVG",
+  "02n": "/icons/cloudy-night.SVG",
+  "03d": "/icons/cloudy.SVG",
+  "03n": "/icons/cloudy.SVG",
+  "04d": "/icons/perfect-day.SVG",
+  "04n": "/icons/cloudy-night.SVG
+  "09d": "/icons/rain.SVG
+  "09n": "/icons/rain-night.SVG
+  "10d": "/icons/rain.SVG
+  "10n": "/icons/rain-night.SVG
+  "11d": "/icons/storm.SVG
+  "11n": "/icons/storm.SVH
 };
 
 
